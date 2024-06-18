@@ -54,12 +54,94 @@ nav li a {
     display: block;
     text-decoration: none;
     text-align: center;
-    padding: 14px 30px;
+    padding: 14px 50px;
     font-size:  20px;
     color: #ffffff;
 }
 
 nav li a:hover {
     background-color: rgb(198, 12, 48);
+}
 
+#intro {
+    background: black url(/queenstown/resources/queenstown-late-night.jpg) no-repeat center;
+    background-size: cover;
+    padding-bottom:  300px;
+    padding-top: 300px;
+}
+
+#intro_block {
+    text-align: center;
+    background-color:  rgba(0, 0, 0, 0.175);
+    padding-top:  10px;
+    width: 850px;
+    margin-left: 430px;
+    color: #ffffff;
+    border: 1px solid #ffffff;
+    
+}
+
+
+#intro_block a {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    padding: 14px 40px;
+    font-size:  25px;
+    color: #ffffff;
+}
+
+#intro_block a:hover {
+    background: rgb(198, 12, 48);
+}
+
+#intro_block h1 {
+    font-size: 25pt;
+
+}
+
+#about_qtown {
+    clear: both;
+
+}
+
+#lake_image {
+    width: 850px;
+    float: left; 
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#lake_image img {
+    width: 800px;
+}
+
+#qtown_txt {
+    float: left;
+    width: 600px;
+    text-align: justify;
+}
+
+footer {
+    clear: both;
+    width: 1700px;
+    background-color: gray;
+    padding-bottom: 200px;
+}
+
+#more_info {
+    float: left;
+    width: 400px;
+}
+
+
+#footer_txt {
+    float: left;
+    width: 400px;
+
+}
+
+#socials {
+    float: left;
+    width: 400px;
 }
