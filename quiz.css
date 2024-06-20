@@ -1,0 +1,12 @@
+#header {
+    margin: auto;
+}
+
+.title {
+    font-size: 60px;
+    color: rgb(0,0,255)
+}
+
+#text {
+    margin: 0 auto;
+}
