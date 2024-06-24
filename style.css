@@ -114,34 +114,131 @@ nav li a:hover {
 
 #lake_image img {
     width: 800px;
+    padding-left: 40px;
 }
 
 #qtown_txt {
     float: left;
     width: 600px;
     text-align: justify;
+    font-size: 18px;
+    padding-left: 70px;
 }
 
 footer {
     clear: both;
     width: 1700px;
-    background-color: gray;
+    height: 0px;
+    background-color: #9c9c9c;
     padding-bottom: 200px;
 }
 
 #more_info {
     float: left;
     width: 400px;
+    padding-top: 50px;
+    
+}
+
+#more_info li {
+    list-style-type: none;
 }
 
 
 #footer_txt {
     float: left;
-    width: 400px;
+    width: 500px;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 50px;
+    font-size: 24px;
+    padding-left: 150px;
+    font-style: italic;
+    
 
+}
+
+#footer_txt h2{
+    text-shadow: 2px 4px 3px rgba(0, 0, 0, .5)
 }
 
 #socials {
-    float: left;
+    float: right;
     width: 400px;
+    
 }
+
+#socials li {
+    padding-top: 70px;
+    display: inline-block;
+}
+
+#the_remarkables {
+    width: 850px;
+    float: left; 
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+#the_remarkables img {
+    width: 875px;
+    height: 900px;
+    padding-left: 30px;
+}
+
+
+#about_attractions {
+    clear: both;
+}
+
+#attractions_txt {
+    float: left;
+    width: 600px;
+    text-align: justify;
+    padding-left: 90px;
+}
+
+#activities_txt {
+    float: left;
+    width: 700px;
+    text-align: justify;
+    font-size: 16px;
+    padding-left: 50px;
+    padding-top: 10px;
+    
+}
+
+#about_activities {
+    clear: both;
+}
+
+#activity_image {
+    float: right;
+}
+
+#activity_image img {
+    width: 800px;
+    height: 800px;
+    padding-right: 80px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+#history_image { 
+    float: left;
+}
+
+#history_image img {
+    width: 800px;
+    padding-top: 50px;
+    padding-left: 25px;
+}
+
+#history_txt {
+    width: 800px;
+    float: right;
+    padding-right: 50px;
+    padding-top: 25px;
+}
+
+
