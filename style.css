@@ -97,7 +97,7 @@ nav li a:hover {
 
 #intro_block h1 {
     font-size: 25pt;
-
+    text-decoration: underline;
 }
 
 #about_qtown {
