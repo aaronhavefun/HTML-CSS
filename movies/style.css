@@ -1,8 +1,9 @@
 .thumb {
-    width: 274px;
-    float: left;
+    width: 271px;
+    margin: 10 auto;
     padding-left: 5px;
     padding-bottom: 5px;
+    display: inline-block;
 }
 
 
@@ -10,7 +11,7 @@
     width: 1000px;
     float: left;
     text-align: center;
-    padding-left: 190px;
+    padding-left: 200px;
     padding-top: 25px;
 }
 
@@ -50,6 +51,7 @@ nav li a {
     padding: 14px 50px;
     font-size:  20px;
     color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 nav li a:hover {
@@ -75,6 +77,6 @@ footer {
     text-align: center;
     padding-top: 50px;
     font-size: 24px;
-    padding-left: 450px;
+    padding-left: 460px;
     font-style: italic;
 }
