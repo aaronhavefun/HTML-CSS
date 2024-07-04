@@ -92,6 +92,7 @@ footer {
     float: right;
     padding-right: 100px;
     border-radius: 100px;
+    padding-top: 10px;
 }
 
 #mononoke_txt p {
@@ -120,4 +121,9 @@ footer {
     padding-right: 100px;
     border-radius: 100px;
     padding-top: 25px;
+}
+
+#shin_txt {
+    width: 700px;
+    padding-left: 10px; 
 }
