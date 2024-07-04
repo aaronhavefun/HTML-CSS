@@ -80,3 +80,44 @@ footer {
     padding-left: 460px;
     font-style: italic;
 }
+
+
+#lupin_txt p {
+    width: 700px;
+    padding-left: 10px;
+}
+
+#lupin_img img {
+    width:500px;
+    float: right;
+    padding-right: 100px;
+    border-radius: 100px;
+}
+
+#mononoke_txt p {
+    width: 700px;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+
+#mononoke_img img {
+    width: 500px;
+    float: right;
+    padding-right: 100px;
+    border-radius: 100px;
+    padding-top: 25px;
+}
+
+#totoro_txt p {
+    width: 700px;
+    padding-top: 25px;
+    padding-left: 10px;
+}
+
+#totoro_img img{
+    width: 500px;
+    float: right;
+    padding-right: 100px;
+    border-radius: 100px;
+    padding-top: 25px;
+}
