@@ -127,3 +127,11 @@ footer {
     width: 700px;
     padding-left: 10px; 
 }
+
+#shin_img img {
+    width: 500px;
+    float: right;
+    padding-right: 100px;
+    border-radius: 100px;
+    padding-top: 25px;
+}
