@@ -1,3 +1,43 @@
-.title {
+#logo {
+    margin: 0 auto;
+    padding-left: 740px;
+}
+
+#page_container {
+    width: 1700px;
+    margin: 0 auto;
+    box-shadow: 0px 0px 48px 16px rgba(0, 0, 0, 0.175);
+    border: 1px solid black;
+    background-color: #F5EBE0;
+}
+
+nav {
+    clear: both;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #F5EBE0;
+}
+
+nav li {
+    display: inline-block;
+}
+
+nav li a {
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    padding: 2px 50px;
+    font-size:  20px;
+    color: #000000;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+nav li a:hover {
+    background-color: #ffffff;
 }
