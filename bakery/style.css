@@ -65,4 +65,7 @@ nav li a:hover {
 #crossaint {
     float: right;
     margin-right: 10px;
+    position: absolute;
+    right: 100px;
+    top:
 }
