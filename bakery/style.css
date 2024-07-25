@@ -64,8 +64,30 @@ nav li a:hover {
 
 #crossaint {
     float: right;
-    margin-right: 10px;
-    position: absolute;
+    padding-right: 700px;
     right: 100px;
-    top:
+    padding-top: 100px;
+    position: absolute;
+    z-index: 1;
+}
+
+#crossaint img {
+    width: 400px;
+    border-radius: 10px;
+}
+
+#special_heading {
+    float: right;
+    padding-right: 500px;
+}
+
+#special_heading h1 {
+    font-size: 45px;
+}
+
+#crprice {
+    left: 1000px;
+    padding-top: 225px;
+    z-index: 2;
+    position: absolute;
 }
