@@ -78,7 +78,7 @@ nav li a:hover {
 
 #special_heading {
     float: right;
-    padding-right: 500px;
+    padding-right: 600px;
 }
 
 #special_heading h1 {
@@ -90,4 +90,29 @@ nav li a:hover {
     padding-top: 225px;
     z-index: 2;
     position: absolute;
+}
+
+#mixed_pastries img {
+    width: 400px;
+    height: 275px;
+    border-radius: 10px;
+}
+
+#mixed_pastries {
+    float: right;
+    margin-left: 100px;
+    position: absolute;
+    padding-left: 1100px;
+    padding-top: 100px;
+}
+
+#miprice {
+    float: right;
+    position: absolute;
+    padding-left: 1500px;
+    padding-top: 225px;
+}
+
+#location p {
+    text-align: center;
 }
