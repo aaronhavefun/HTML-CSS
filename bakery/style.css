@@ -21,7 +21,7 @@ nav ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #F5EBE0;
+    background-color: #FFF8F0;
 }
 
 nav li {
@@ -115,4 +115,38 @@ nav li a:hover {
 
 #location p {
     text-align: center;
+    color: #ffffff;
+    float: left;
+    font-size: 12px;
+}
+
+#location {
+    position: absolute;
+    padding-top: 5px;
+    padding-left: 50px;
+}
+
+footer {
+    clear: both;
+    width: 1800px;
+    height: 0px;
+    background-color: #000000;
+    padding-bottom: 200px;
+}
+
+
+#logo_dark {
+    float: right;
+    position: absolute;
+    padding-left: 1500px;
+}
+
+#white_line {
+    background-color: #ffffff;
+    width: 2px;
+    height: 150px;
+    position: absolute;
+    float: right;
+    margin-left: 250px;
+    margin-top: 25px;
 }
