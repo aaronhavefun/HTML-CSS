@@ -85,12 +85,6 @@ nav li a:hover {
     font-size: 45px;
 }
 
-#crprice {
-    left: 1000px;
-    padding-top: 225px;
-    z-index: 2;
-    position: absolute;
-}
 
 #mixed_pastries img {
     width: 400px;
@@ -104,13 +98,6 @@ nav li a:hover {
     position: absolute;
     padding-left: 1100px;
     padding-top: 100px;
-}
-
-#miprice {
-    float: right;
-    position: absolute;
-    padding-left: 1500px;
-    padding-top: 225px;
 }
 
 #location p {
