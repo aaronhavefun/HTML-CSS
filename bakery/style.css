@@ -64,11 +64,9 @@ nav li a:hover {
 
 #crossaint {
     float: right;
-    padding-right: 700px;
-    right: 100px;
+    padding-left: 680px;
     padding-top: 100px;
     position: absolute;
-    z-index: 1;
 }
 
 #crossaint img {
@@ -101,16 +99,17 @@ nav li a:hover {
 }
 
 #location p {
-    text-align: center;
+    display: inline-block;
     color: #ffffff;
-    float: left;
     font-size: 12px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #location {
     position: absolute;
-    padding-top: 5px;
-    padding-left: 50px;
+    padding-top: 30px;
+    padding-left: 80px;
+    display: inline-block;
 }
 
 footer {
@@ -130,10 +129,22 @@ footer {
 
 #white_line {
     background-color: #ffffff;
-    width: 2px;
-    height: 150px;
-    position: absolute;
-    float: right;
-    margin-left: 250px;
-    margin-top: 25px;
+    width: 150px;
+    height: 2px;
+    position: fixed;    
+    margin-bottom: 250px;
+    margin-left: 80px;
+    
+}
+
+
+
+#location_foot {
+    color: #ffffff;
+    padding-left: 75px;
+}
+
+#location_foot h1 {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
 }
